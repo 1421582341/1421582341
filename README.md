@@ -1,15 +1,9 @@
 <h1 align="center">Hi 👋, I'm 生姜烧肉</h1>
 <h3 align="center">A passionate self-taught frontend student from Shanghai</h3>
 
-- 🔭 I’m currently working on [Art-Exhibition](https://github.com/1421582341/Art-Exhibition)
-
-- 🌱 I’m currently learning **react**
-
 - 👨‍💻 All of my projects are available at [my repositories](https://github.com/1421582341?tab=repositories)
 
 - 📝 I regularly write articles on [my blog](https://1421582341.github.io/learn-note/)
-
-- 💬 Ask me about **vue**
 
 - 📫 How to reach me **1421582341@qq.com**
 
