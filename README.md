@@ -13,7 +13,6 @@
 ## 精选项目
 
 - [learn-note](https://github.com/1421582341/learn-note)：基于 Astro 的个人技术博客与学习笔记。
-- [Art-Exhibition](https://github.com/1421582341/Art-Exhibition)：使用 Vue、TypeScript 与 Express 完成的早期全栈学习项目。
 
 ## 联系我
 
