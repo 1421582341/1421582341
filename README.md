@@ -14,6 +14,14 @@
 
 - [learn-note](https://github.com/1421582341/learn-note)：基于 Astro 的个人技术博客与学习笔记。
 
+## GitHub 活跃轨迹
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/1421582341/1421582341/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/1421582341/1421582341/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/1421582341/1421582341/output/github-contribution-grid-snake.svg">
+</picture>
+
 ## 联系我
 
 - Email: 1421582341@qq.com
