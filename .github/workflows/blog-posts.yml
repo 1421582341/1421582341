@@ -29,4 +29,5 @@ jobs:
           max_post_count: 5
           date_format: "yyyy-mm-dd"
           template: "$newline- [$title]($url) — $date"
+          item_exec: 'post.url = post.url.replace("https://1421582341.github.io/blog/", "https://1421582341.github.io/learn-note/blog/")'
           commit_message: "Update recent blog posts"

@@ -20,7 +20,7 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,vue,react,solidjs,nodejs,nestjs,mysql,redis,docker,git,github,vite,sass&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,vue,react,solidjs,nodejs,nestjs,golang,mysql,redis,kafka,docker,git,github,vite,sass,godot&perline=9)](https://skillicons.dev)
 
 </div>
 
@@ -31,11 +31,11 @@
 ## 最近文章
 
 <!-- BLOG-POST-LIST:START -->
-- [Puppeteer 终极指南：开启浏览器自动化的无限可能](https://1421582341.github.io/blog/puppeteer-automation-guide/) — 2026-04-05
-- [AI 周报：2026年3月最后一周——从对话模型到“代理智能”的全面飞跃](https://1421582341.github.io/blog/ai-news-march-2026-week-4/) — 2026-04-04
-- [高性能动态预览：如何将多个动图 WebP 合成为无缝网格大图？](https://1421582341.github.io/blog/combine-webp-grid-preview/) — 2026-04-04
-- [Jotai 深度解析：React 原子化状态管理的艺术](https://1421582341.github.io/blog/jotai-atomic-state-management/) — 2026-04-04
-- [前端性能优化](https://1421582341.github.io/blog/opt/) — 2026-04-04<!-- BLOG-POST-LIST:END -->
+- [Puppeteer 终极指南：开启浏览器自动化的无限可能](https://1421582341.github.io/learn-note/blog/puppeteer-automation-guide/) — 2026-04-05
+- [AI 周报：2026年3月最后一周——从对话模型到“代理智能”的全面飞跃](https://1421582341.github.io/learn-note/blog/ai-news-march-2026-week-4/) — 2026-04-04
+- [高性能动态预览：如何将多个动图 WebP 合成为无缝网格大图？](https://1421582341.github.io/learn-note/blog/combine-webp-grid-preview/) — 2026-04-04
+- [Jotai 深度解析：React 原子化状态管理的艺术](https://1421582341.github.io/learn-note/blog/jotai-atomic-state-management/) — 2026-04-04
+- [前端性能优化](https://1421582341.github.io/learn-note/blog/opt/) — 2026-04-04<!-- BLOG-POST-LIST:END -->
 
 ## GitHub 活跃轨迹
 
